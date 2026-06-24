@@ -6,7 +6,23 @@ Plataforma inteligente para gerenciamento de chamados utilizando Inteligência A
 
 ---
 
-## Objetivo
+## 🚀 Status do Projeto
+
+> Em desenvolvimento (MVP)
+
+Este projeto está sendo desenvolvido como portfólio profissional para demonstrar conhecimentos em:
+
+- Engenharia de Software
+- Quality Assurance (QA)
+- APIs REST
+- Banco de Dados
+- Inteligência Artificial
+- Automação de Testes
+- Git e GitHub
+
+---
+
+## 🎯 Objetivo
 
 Desenvolver uma plataforma moderna de gerenciamento de chamados (Service Desk), utilizando Inteligência Artificial para automatizar processos, melhorar a experiência do usuário e auxiliar equipes de suporte técnico.
 
@@ -14,7 +30,7 @@ O projeto será utilizado como portfólio profissional, demonstrando conheciment
 
 ---
 
-## Público-alvo
+## 👥 Público-alvo
 
 - Empresas
 - Instituições de ensino
@@ -25,7 +41,7 @@ O projeto será utilizado como portfólio profissional, demonstrando conheciment
 
 ---
 
-## Funcionalidades
+## ✨ Funcionalidades
 
 - Cadastro de usuários
 - Login
