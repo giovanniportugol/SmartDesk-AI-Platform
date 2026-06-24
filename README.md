@@ -52,3 +52,29 @@ O projeto será utilizado como portfólio profissional, demonstrando conheciment
 - APIs REST
 - Banco de Dados
 - Testes Automatizados
+
+---
+
+## 🛠️ Tecnologias
+
+### Front-end
+- React
+- TypeScript
+
+### Back-end
+- Python
+- FastAPI
+
+### Banco de Dados
+- PostgreSQL
+
+### Inteligência Artificial
+- OpenAI API (planejado)
+
+### Testes
+- Postman
+- Playwright
+
+### Versionamento
+- Git
+- GitHub
