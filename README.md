@@ -2,109 +2,213 @@
 
 > Intelligent Service Desk powered by AI
 
-Plataforma inteligente para gerenciamento de chamados utilizando Inteligência Artificial.
+An intelligent Service Desk platform designed to optimize IT support processes through Artificial Intelligence, automation, and modern software engineering practices.
 
 ---
 
-## 🚀 Status do Projeto
+# 🚀 Project Status
 
-> Em desenvolvimento (MVP)
+> 🚧 MVP in Development
 
-Este projeto está sendo desenvolvido como portfólio profissional para demonstrar conhecimentos em:
+This project is being developed as a professional portfolio to demonstrate practical knowledge in:
 
-- Engenharia de Software
+- Software Engineering
 - Quality Assurance (QA)
-- APIs REST
-- Banco de Dados
-- Inteligência Artificial
-- Automação de Testes
-- Git e GitHub
+- Software Testing
+- REST APIs
+- Database Design
+- Artificial Intelligence
+- Test Automation
+- Git & GitHub
+- Agile Methodologies
 
 ---
 
-## 🎯 Objetivo
+# 🎯 Project Goal
 
-Desenvolver uma plataforma moderna de gerenciamento de chamados (Service Desk), utilizando Inteligência Artificial para automatizar processos, melhorar a experiência do usuário e auxiliar equipes de suporte técnico.
+The SmartDesk AI Platform aims to modernize IT support by combining traditional Service Desk features with Artificial Intelligence.
 
-O projeto será utilizado como portfólio profissional, demonstrando conhecimentos em Engenharia de Software, QA, APIs REST, Banco de Dados, Inteligência Artificial e Automação de Testes.
+The project focuses on improving productivity, user experience, incident management, and software quality while serving as a real-world portfolio project.
 
 ---
 
-## 👥 Público-alvo
+# 👥 Target Audience
 
-- Empresas
-- Instituições de ensino
-- Equipes de TI
+- Companies
+- Educational Institutions
+- IT Teams
 - Service Desk
 - Help Desk
-- Suporte Técnico
+- Technical Support Teams
 
 ---
 
-## ✨ Funcionalidades
+# ✨ Main Features
 
-- Cadastro de usuários
-- Login
-- Abertura de chamados
-- Histórico
+- User Authentication
+- User Management
+- Ticket Management
+- Incident Tracking
 - Dashboard
-- Inteligência Artificial
-- APIs REST
-- Banco de Dados
-- Testes Automatizados
+- AI Assistant
+- REST APIs
+- Reporting
+- Knowledge Base
+- Notifications
+- Test Automation
 
 ---
 
-## 🛠️ Tecnologias
+# 🛠️ Technology Stack
 
-### Front-end
+## Front-end
+
 - React
 - TypeScript
 
-### Back-end
+## Back-end
+
 - Python
 - FastAPI
 
-### Banco de Dados
+## Database
+
 - PostgreSQL
 
-### Inteligência Artificial
-- OpenAI API (planejado)
+## Artificial Intelligence
 
-### Testes
+- OpenAI API (planned)
+
+## Testing
+
 - Postman
 - Playwright
 
-### Versionamento
+## Version Control
+
 - Git
 - GitHub
 
 ---
 
-# 📂 Estrutura do Projeto
+# 📂 Project Structure
 
 ```text
 SmartDesk-AI-Platform
 │
 ├── README.md
 │
-├── docs/
-│   ├── requisitos.md
-│   ├── casos-de-uso.md
-│   ├── historias-de-usuario.md
-│   ├── arquitetura.md
-│   ├── banco-de-dados.md
+├── docs
+│   ├── requirements.md
+│   ├── use-cases.md
+│   ├── user-stories.md
+│   ├── architecture.md
+│   ├── database.md
 │   ├── api.md
-│   ├── plano-de-testes.md
+│   ├── test-plan.md
 │   └── roadmap.md
 │
-├── frontend/
+├── frontend
 │
-├── backend/
+├── backend
 │
-├── database/
+├── database
 │
-├── tests/
+├── tests
 │
-└── assets/
+└── assets
+```
 
+---
+
+# 🧪 Quality Assurance
+
+This project follows software quality best practices and includes:
+
+- Test Plan
+- Test Cases
+- Bug Reports
+- API Testing
+- Automated Testing
+- Test Evidence
+- Traceability Matrix
+
+---
+
+# 🤖 Artificial Intelligence
+
+Planned AI capabilities include:
+
+- Automatic ticket classification
+- Priority suggestion
+- Ticket summarization
+- AI-powered chatbot
+- Knowledge Base search
+- Technical support assistant
+
+---
+
+# 🗺️ Roadmap
+
+## Phase 1
+
+- Project Documentation
+- Repository Structure
+- Software Requirements
+
+## Phase 2
+
+- Database Design
+- REST API
+
+## Phase 3
+
+- Front-end Development
+
+## Phase 4
+
+- Artificial Intelligence Integration
+
+## Phase 5
+
+- Automated Testing
+
+## Phase 6
+
+- Deployment
+
+---
+
+# 📌 Project Objectives
+
+- Improve IT support efficiency
+- Demonstrate software engineering skills
+- Build a professional QA portfolio
+- Learn modern development practices
+- Showcase API and automation testing
+
+---
+
+# 👨‍💻 Author
+
+**Giovanni de Souza Gomes**
+
+Computer Systems Analysis and Development Student
+
+Focused on:
+
+- Software Quality Assurance
+- REST APIs
+- Test Automation
+- Software Engineering
+- Artificial Intelligence
+
+GitHub:
+https://github.com/giovanniportugol
+
+LinkedIn:
+https://www.linkedin.com/in/giovanni-de-souza-gomes-2a0b90240
+
+---
+
+⭐ This repository is continuously evolving as part of my Software Engineering and QA learning journey.
