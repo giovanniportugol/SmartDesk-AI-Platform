@@ -78,3 +78,33 @@ O projeto será utilizado como portfólio profissional, demonstrando conheciment
 ### Versionamento
 - Git
 - GitHub
+
+---
+
+# 📂 Estrutura do Projeto
+
+```text
+SmartDesk-AI-Platform
+│
+├── README.md
+│
+├── docs/
+│   ├── requisitos.md
+│   ├── casos-de-uso.md
+│   ├── historias-de-usuario.md
+│   ├── arquitetura.md
+│   ├── banco-de-dados.md
+│   ├── api.md
+│   ├── plano-de-testes.md
+│   └── roadmap.md
+│
+├── frontend/
+│
+├── backend/
+│
+├── database/
+│
+├── tests/
+│
+└── assets/
+
