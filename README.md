@@ -1,2 +1,38 @@
-# SmartDesk-AI-Platform
-Plataforma inteligente de Service Desk com IA, documentação completa, APIs REST, testes e automação.
+# SmartDesk AI Platform
+
+> Intelligent Service Desk powered by AI
+
+Plataforma inteligente para gerenciamento de chamados utilizando Inteligência Artificial.
+
+---
+
+## Objetivo
+
+Desenvolver uma plataforma moderna de gerenciamento de chamados (Service Desk), utilizando Inteligência Artificial para automatizar processos, melhorar a experiência do usuário e auxiliar equipes de suporte técnico.
+
+O projeto será utilizado como portfólio profissional, demonstrando conhecimentos em Engenharia de Software, QA, APIs REST, Banco de Dados, Inteligência Artificial e Automação de Testes.
+
+---
+
+## Público-alvo
+
+- Empresas
+- Instituições de ensino
+- Equipes de TI
+- Service Desk
+- Help Desk
+- Suporte Técnico
+
+---
+
+## Funcionalidades
+
+- Cadastro de usuários
+- Login
+- Abertura de chamados
+- Histórico
+- Dashboard
+- Inteligência Artificial
+- APIs REST
+- Banco de Dados
+- Testes Automatizados
