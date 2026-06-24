@@ -1,61 +1,41 @@
-# SmartDesk AI Platform
+# 🤖 SmartDesk AI Platform
 
-> Intelligent Service Desk powered by AI
-
-An intelligent Service Desk platform designed to optimize IT support processes through Artificial Intelligence, automation, and modern software engineering practices.
+An AI-powered Service Desk platform designed to modernize IT support through automation, artificial intelligence, and efficient ticket management.
 
 ---
 
-# 🚀 Project Status
+# 🚀 Project Overview
 
-> 🚧 MVP in Development
+SmartDesk AI Platform is a software engineering project focused on building a modern Help Desk solution capable of managing incidents, service requests, users, dashboards, and AI-assisted support.
 
-This project is being developed as a professional portfolio to demonstrate practical knowledge in:
-
-- Software Engineering
-- Quality Assurance (QA)
-- Software Testing
-- REST APIs
-- Database Design
-- Artificial Intelligence
-- Test Automation
-- Git & GitHub
-- Agile Methodologies
+The project follows software engineering best practices, including requirements analysis, software architecture, database design, API documentation, testing strategy, and roadmap planning.
 
 ---
 
-# 🎯 Project Goal
+# 🎯 Objectives
 
-The SmartDesk AI Platform aims to modernize IT support by combining traditional Service Desk features with Artificial Intelligence.
-
-The project focuses on improving productivity, user experience, incident management, and software quality while serving as a real-world portfolio project.
-
----
-
-# 👥 Target Audience
-
-- Companies
-- Educational Institutions
-- IT Teams
-- Service Desk
-- Help Desk
-- Technical Support Teams
+* Improve IT support efficiency.
+* Automate repetitive tasks.
+* Provide AI-assisted support.
+* Centralize service requests.
+* Improve response and resolution times.
+* Deliver a scalable and secure platform.
 
 ---
 
 # ✨ Main Features
 
-- User Authentication
-- User Management
-- Ticket Management
-- Incident Tracking
-- Dashboard
-- AI Assistant
-- REST APIs
-- Reporting
-- Knowledge Base
-- Notifications
-- Test Automation
+* User Authentication
+* User Management
+* Ticket Management
+* Incident Tracking
+* Dashboard
+* AI Assistant
+* REST API
+* Reporting
+* Knowledge Base
+* Notifications
+* Test Automation
 
 ---
 
@@ -63,42 +43,47 @@ The project focuses on improving productivity, user experience, incident managem
 
 ## Front-end
 
-- React
-- TypeScript
+* React
+* TypeScript
+* Tailwind CSS
 
 ## Back-end
 
-- Python
-- FastAPI
+* Node.js
+* Express
+* Prisma ORM
 
 ## Database
 
-- PostgreSQL
+* PostgreSQL
 
 ## Artificial Intelligence
 
-- OpenAI API (planned)
+* OpenAI API
 
 ## Testing
 
-- Postman
-- Playwright
+* Playwright
+* Jest
+* Postman
 
-## Version Control
+## DevOps
 
-- Git
-- GitHub
+* Docker
+* GitHub Actions
 
 ---
 
 # 📂 Project Structure
 
 ```text
-SmartDesk-AI-Platform
+SmartDesk-AI-Platform/
 │
 ├── README.md
+├── LICENSE
+├── CHANGELOG.md
 │
-├── docs
+├── docs/
 │   ├── requirements.md
 │   ├── use-cases.md
 │   ├── user-stories.md
@@ -108,84 +93,127 @@ SmartDesk-AI-Platform
 │   ├── test-plan.md
 │   └── roadmap.md
 │
-├── frontend
-│
-├── backend
-│
-├── database
-│
-├── tests
-│
-└── assets
+├── frontend/
+├── backend/
+├── database/
+├── tests/
+└── assets/
 ```
 
 ---
 
-# 🧪 Quality Assurance
+# 📚 Documentation
 
-This project follows software quality best practices and includes:
+The project documentation includes:
 
-- Test Plan
-- Test Cases
-- Bug Reports
-- API Testing
-- Automated Testing
-- Test Evidence
-- Traceability Matrix
-
----
-
-# 🤖 Artificial Intelligence
-
-Planned AI capabilities include:
-
-- Automatic ticket classification
-- Priority suggestion
-- Ticket summarization
-- AI-powered chatbot
-- Knowledge Base search
-- Technical support assistant
+| Document        | Description                               |
+| --------------- | ----------------------------------------- |
+| requirements.md | Software Requirements Specification (SRS) |
+| use-cases.md    | System Use Cases                          |
+| user-stories.md | Agile User Stories                        |
+| architecture.md | Software Architecture                     |
+| database.md     | Database Design                           |
+| api.md          | REST API Documentation                    |
+| test-plan.md    | Software Test Plan                        |
+| roadmap.md      | Product Roadmap                           |
 
 ---
 
-# 🗺️ Roadmap
+# 🏗️ Software Development Process
 
-## Phase 1
+The project follows a structured software engineering workflow:
 
-- Project Documentation
-- Repository Structure
-- Software Requirements
-
-## Phase 2
-
-- Database Design
-- REST API
-
-## Phase 3
-
-- Front-end Development
-
-## Phase 4
-
-- Artificial Intelligence Integration
-
-## Phase 5
-
-- Automated Testing
-
-## Phase 6
-
-- Deployment
+1. Requirements Analysis
+2. Use Cases
+3. User Stories
+4. Software Architecture
+5. Database Design
+6. REST API Design
+7. Software Testing
+8. Implementation
+9. Deployment
 
 ---
 
-# 📌 Project Objectives
+# 📈 Product Roadmap
 
-- Improve IT support efficiency
-- Demonstrate software engineering skills
-- Build a professional QA portfolio
-- Learn modern development practices
-- Showcase API and automation testing
+### Version 0.1
+
+* Project Documentation
+* Software Planning
+* Initial Architecture
+
+### Version 0.5
+
+* Backend Development
+* Frontend Development
+* Database Integration
+* Authentication
+
+### Version 1.0
+
+* AI Assistant
+* Dashboard
+* Reporting
+* Notifications
+* Production Release
+
+---
+
+# 🧪 Testing Strategy
+
+The platform will include:
+
+* Functional Testing
+* API Testing
+* Integration Testing
+* End-to-End Testing
+* Performance Testing
+* Security Testing
+
+Testing tools:
+
+* Playwright
+* Jest
+* Postman
+
+---
+
+# 🔒 Security
+
+The platform is designed with security best practices:
+
+* JWT Authentication
+* Password Encryption
+* HTTPS
+* Role-Based Access Control (RBAC)
+
+---
+
+# 🚧 Project Status
+
+Current Phase:
+
+* ✅ Documentation
+* ⏳ Backend Development
+* ⏳ Frontend Development
+* ⏳ Database Implementation
+* ⏳ API Development
+* ⏳ Automated Testing
+
+---
+
+# 🤝 Contributing
+
+Contributions, suggestions, and improvements are welcome.
+
+Future contribution guidelines will be documented in the `CONTRIBUTING.md` file.
+
+---
+
+# 📄 License
+
+This project will be released under the MIT License.
 
 ---
 
@@ -193,22 +221,6 @@ Planned AI capabilities include:
 
 **Giovanni de Souza Gomes**
 
-Computer Systems Analysis and Development Student
-
-Focused on:
-
-- Software Quality Assurance
-- REST APIs
-- Test Automation
-- Software Engineering
-- Artificial Intelligence
-
 GitHub:
+
 https://github.com/giovanniportugol
-
-LinkedIn:
-https://www.linkedin.com/in/giovanni-de-souza-gomes-2a0b90240
-
----
-
-⭐ This repository is continuously evolving as part of my Software Engineering and QA learning journey.
